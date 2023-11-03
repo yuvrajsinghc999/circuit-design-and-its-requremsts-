@@ -1,5 +1,5 @@
 # circuit-design-and-its-requremsts-
-today i am make few circuits on tinkercad
+today i made a few circuits on tinkercad,
 the requirements are to make a circuit 
 bulb
 led
